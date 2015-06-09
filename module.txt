@@ -1,0 +1,14 @@
+{
+    "id" : "NetworkTransport",
+    "version" : "0.1.0",
+    "author" : "",
+    "displayName" : "NetworkTransport",
+    "description" : "Module defining network-based transportation systems - entities (i.e. items) and quantitative substances (i.e. fluids or energy).",
+    "dependencies" : [
+        {
+            "id" : "BlockNetwork",
+            "minVersion" : "0.1.0"
+        }
+    ],
+    "isServerSideOnly" : false
+}
