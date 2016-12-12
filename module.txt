@@ -1,7 +1,7 @@
 {
     "id" : "NetworkTransport",
     "version" : "0.1.0",
-    "author" : "",
+    "author" : "MarcinSc",
     "displayName" : "NetworkTransport",
     "description" : "Module defining network-based transportation systems - entities (i.e. items) and quantitative substances (i.e. fluids or energy).",
     "dependencies" : [
